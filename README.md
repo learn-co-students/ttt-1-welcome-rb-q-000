@@ -2,14 +2,14 @@
 
 ## Overview
 
-We're going to build a simple program that implements only the very first thing a complete Tic Tac Toe program would require, simply greeting the player with a welcome message.
+We're going to build a simple program that implements only the very first thing a complete Tic Tac Toe program would require, which is to greet the player with a welcome message.
 
 ## Objectives
 
 1. Read the output from running `learn`.
-2. Use `puts` in `lib/welcome.rb` to print "Welcome to Tic Tac Toe!"
-3. Have your tests pass locally by running `learn`.
-4. Submit your solution.
+2. Use `puts` to print "Welcome to Tic Tac Toe!"
+3. Have tests pass locally by running `learn`.
+4. Submit solution.
 
 ## Instructions
 
