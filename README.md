@@ -20,7 +20,3 @@ We're going to build a simple program that implements only the very first thing 
 5. Read output.
 6. If still broken, repeat 3-5
 7. If passing, submit with `learn submit`
-
-## Demo
-
-[![asciicast](https://asciinema.org/a/b2y15skg7hwzudfucks90o3er.png)](https://asciinema.org/a/b2y15skg7hwzudfucks90o3er)
