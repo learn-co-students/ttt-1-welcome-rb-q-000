@@ -2,4 +2,4 @@
 # You can see what this file does by running:
 # ruby lib/welcome.rb from your terminal.
 
-prints "Welcome to Tic Tac Toe!"
+puts "Welcome to Tic Tac Toe!"
