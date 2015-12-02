@@ -62,3 +62,5 @@ Or something that looks like:
 ```
 
 What these errors are saying is that the test expected you to print `"Welcome to Tic Tac Toe!"` but you printed something else. Programming is absolutely precise, make sure your tests are printing exactly "Welcome to Tic Tac Toe!".
+
+<a href='https://learn.co/lessons/ttt-1-welcome-rb' data-visibility='hidden'>View this lesson on Learn.co</a>
