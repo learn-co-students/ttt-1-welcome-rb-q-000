@@ -2,3 +2,5 @@
 # You can see what this file does by running:
 # ruby lib/welcome.rb from your terminal.
 puts "Welcome to Tic Tac Toe!"
+
+# for error message involving "bundle install"--type "bundle install" in command line
