@@ -23,7 +23,7 @@ We're going to build a simple program that implements only the very first thing 
 
 ## Troubleshooting
 
-Here are somethings you can try to get more clues to solve the lab.
+Here are some things you can try to get more clues to solve the lab.
 
 ### 1. Try running `ruby lib/welcome.rb`
 
