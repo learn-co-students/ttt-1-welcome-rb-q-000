@@ -5,3 +5,5 @@ source "https://rubygems.org"
 
 gem 'rspec'
 gem 'pry'
+
+puts "Welcome to Tic Tac Toe!"
