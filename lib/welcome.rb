@@ -1,2 +1,2 @@
 puts "Welcome to Tic Tac Toe!"
-# ruby lib/welcome.rb from your terminal.
+board= [1, 2, 3, 4, 5, 6, 7, 8, 9]
