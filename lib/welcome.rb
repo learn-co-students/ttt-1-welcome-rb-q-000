@@ -1,3 +1,2 @@
-# Edit this file to output "Welcome to Tic Tac Toe!"
-# You can see what this file does by running:
-# ruby lib/welcome.rb from your terminal.
+puts "Welcome to Tic Tac Toe!"
+board= [1, 2, 3, 4, 5, 6, 7, 8, 9]
