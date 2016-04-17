@@ -6,6 +6,3 @@ describe "lib/welcome.rb" do
   end
 end
 
-# The file lib/welcome.rb have to be somethin with Welcome to Tic Tac Toe!
-1.Say Hi
-2.Say bye
