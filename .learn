@@ -1,6 +1,4 @@
 tags:
-  - puts
-  - tictactoe
+  - puts "Welcome to tic tac toe!"
 languages:
   - ruby
-  
